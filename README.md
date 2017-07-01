@@ -1,2 +1,2 @@
-# Effort-Estimation-Test
-this is a test project
+# Open source effort estimation dataset
+producted by fumin qi Wuhan University
