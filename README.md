@@ -1,2 +1,2 @@
 # Open source effort estimation dataset
-producted by fumin qi Wuhan University
+producted by Fumin Qi, School of computer, Wuhan University
